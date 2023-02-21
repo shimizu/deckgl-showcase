@@ -87,15 +87,6 @@ function Map() {
                     mapStyle="mapbox://styles/mapbox/dark-v10"
                 />
             </DeckGL>
-            <div className="attribution">
-                <a
-                    href="http://www.openstreetmap.org/about/"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    © OpenStreetMap
-                </a>
-            </div>
         </div>
     );
 }
